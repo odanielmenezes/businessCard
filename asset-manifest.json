@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf420e11.css",
+    "main.js": "/static/js/main.61c108be.js",
+    "static/js/787.9790161a.chunk.js": "/static/js/787.9790161a.chunk.js",
+    "static/media/circle01.png": "/static/media/circle01.d5f17075d9e551c2d317.png",
+    "static/media/logo-sm.png": "/static/media/logo-sm.32d1844982d10135d76f.png",
+    "static/media/carousel03.jpeg": "/static/media/carousel03.44596a68c63a4cdc808c.jpeg",
+    "static/media/carousel02.jpeg": "/static/media/carousel02.7b11c83838c0b24864b3.jpeg",
+    "static/media/carousel01.jpeg": "/static/media/carousel01.672545bdf674bdadd1fa.jpeg",
+    "index.html": "/index.html",
+    "main.bf420e11.css.map": "/static/css/main.bf420e11.css.map",
+    "main.61c108be.js.map": "/static/js/main.61c108be.js.map",
+    "787.9790161a.chunk.js.map": "/static/js/787.9790161a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf420e11.css",
+    "static/js/main.61c108be.js"
+  ]
+}
