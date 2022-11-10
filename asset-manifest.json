@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/businessCard/static/css/main.bf420e11.css",
-    "main.js": "/businessCard/static/js/main.fde148d6.js",
+    "main.js": "/businessCard/static/js/main.600b4000.js",
     "static/js/787.9790161a.chunk.js": "/businessCard/static/js/787.9790161a.chunk.js",
     "static/media/circle01.png": "/businessCard/static/media/circle01.d5f17075d9e551c2d317.png",
     "static/media/logo-sm.png": "/businessCard/static/media/logo-sm.32d1844982d10135d76f.png",
@@ -10,11 +10,11 @@
     "static/media/carousel01.jpeg": "/businessCard/static/media/carousel01.672545bdf674bdadd1fa.jpeg",
     "index.html": "/businessCard/index.html",
     "main.bf420e11.css.map": "/businessCard/static/css/main.bf420e11.css.map",
-    "main.fde148d6.js.map": "/businessCard/static/js/main.fde148d6.js.map",
+    "main.600b4000.js.map": "/businessCard/static/js/main.600b4000.js.map",
     "787.9790161a.chunk.js.map": "/businessCard/static/js/787.9790161a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf420e11.css",
-    "static/js/main.fde148d6.js"
+    "static/js/main.600b4000.js"
   ]
 }
