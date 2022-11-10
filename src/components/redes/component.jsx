@@ -14,32 +14,43 @@ export function Redes() {
       <div className="Redes">
         <div className="MainContent">
           <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faInstagram} />
-            </div>
-            <small>Instagram</small>
+            <a href="https://www.instagram.com/sabordomelgastronomia" target="_blannk">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faInstagram} />
+              </div>
+              <small>Instagram</small>
+            </a>
           </div>
           <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faGlobe} />
-            </div>
-            <small>Site Oficial</small>
+            <a href="https://www.smgastronomia.com" target="_blank" rel="noreferrer">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faGlobe} />
+              </div>
+              <small>Site Oficial</small>
+            </a>
           </div>
           <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faLocationDot} />
-            </div>
-            <small>Localização</small>
+            <a
+              href="https://smgastronomia.com/localizacao"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faLocationDot} />
+              </div>
+              <small>Localização</small>
+            </a>
           </div>
           <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faEnvelope} />
-            </div>
-            <small>Orçamento</small>
+            <a href="https://smgastronomia.com/contate-nos" target="_blank" rel="noreferrer">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faEnvelope} />
+              </div>
+              <small>Orçamento</small>
+            </a>
           </div>
         </div>
-        <div className="BackgroundImageRedes">
-        </div>
+        <div className="BackgroundImageRedes"></div>
       </div>
     </Style>
   );
