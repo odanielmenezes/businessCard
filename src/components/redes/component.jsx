@@ -14,7 +14,7 @@ export function Redes() {
       <div className="Redes">
         <div className="MainContent">
           <div className="Redes__Items">
-            <a href="https://www.instagram.com/sabordomelgastronomia" target="_blannk">
+            <a href="https://www.instagram.com/sabordomel.buffet" target="_blannk">
               <div className="IconItem">
                 <FontAwesomeIcon icon={faInstagram} />
               </div>

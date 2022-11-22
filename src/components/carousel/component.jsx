@@ -23,7 +23,7 @@ const Component = () => {
           onSwiper={(swiper) => console.log(swiper)}
         >
           <SwiperSlide>
-            <img src={LogoSm} alt="" />
+            <img src={LogoSm} alt=""  id="logo"/>
           </SwiperSlide>
           <SwiperSlide>
             <img src={Image01} alt="" />

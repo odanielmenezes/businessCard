@@ -8,6 +8,9 @@ const carousel = styled.div`
         width: 100vw;
         margin: 0 auto;
     }
+        img#logo {
+            width: 200px !important;
+        }
     .swiper-slide.swiper-slide-active {
     display: flex;
     justify-content: center;
@@ -17,8 +20,8 @@ const carousel = styled.div`
         bottom: 0 !important;
     }
     .swiper-slide {
-    display: flex;
-    align-items: center;
+        display: flex;
+        align-items: center;
     }
     span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     background: #FFF;

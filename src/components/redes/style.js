@@ -74,6 +74,9 @@ const redes = styled.div`
                 font-size: 18px;
                 font-family: 'Lobster', cursive;
             }
+            a{
+                text-decoration: none;
+            }
         }
         
     @keyframes opacitor {
